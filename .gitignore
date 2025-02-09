@@ -1,0 +1,43 @@
+# Carpetas del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de entornos virtuales
+venv/
+.env
+*.env
+
+# Archivos temporales y caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de logs y debugging
+logs/
+*.log
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Datos sensibles y credenciales
+config/secrets.json
+
+# Archivos de dependencias de Python y paquetes compilados
+*.egg-info/
+*.dist-info/
+build/
+dist/
+
+# Archivos de Docker y contenedores
+*.dockerignore
+
+# Salida de modelos o grandes archivos de salida
+*.h5
+*.pkl
+*.joblib
