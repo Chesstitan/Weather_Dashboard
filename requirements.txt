@@ -1,0 +1,11 @@
+shiny>=0.5.2  # Framework para la webapp
+pandas>=1.5.3  # Manejo y análisis de datos
+numpy>=1.24.2  # Operaciones numéricas
+matplotlib>=3.6.2  # Gráficos básicos
+seaborn>=0.12.2  # Gráficos avanzados
+plotly>=5.14.1  # Gráficos interactivos
+scipy>=1.10.1  # Cálculos científicos
+requests>=2.28.2  # Para llamadas a APIs
+jupyter>=1.0.0  # Para usar notebooks
+ipykernel>=6.21.3  # Kernel de Jupyter para ejecutar notebooks
+pytest>=7.2.2  # Pruebas unitarias
